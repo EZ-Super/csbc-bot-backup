@@ -1,0 +1,9 @@
+{
+  "bonzo": {
+    "name": "Secret Boss",
+    "health": 100,
+    "attack": 100,
+    "image" : "https://media.discordapp.net/attachments/1193063352377823372/1256567330780217465/C9DF6A8F-5163-4238-8E45-792FF22BC84E.jpg?ex=66813d05&is=667feb85&hm=46765d9f4d430b3651052b3666215b894079c7e2f78d349e3e4384e57e3af701&=&format=webp&width=350&height=350",
+
+  }
+}

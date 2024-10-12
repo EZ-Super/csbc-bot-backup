@@ -1,0 +1,23 @@
+{
+  "name": "csbc",
+  "version": "0.0.2",
+  "description": "Database migration and performance testing",
+  "author": "o_in",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node ."
+  },
+  "dependencies": {
+    "cron": "^3.1.6",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.14.1",
+    "mongodb": "^6.3.0",
+    "node-fetch": "^2.7.0",
+    "timers": "^0.1.1"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.11",
+    "typescript": "^5.4.4"
+  }
+}
