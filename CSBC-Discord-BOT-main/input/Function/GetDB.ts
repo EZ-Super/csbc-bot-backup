@@ -7,7 +7,7 @@ import {EmbedBuilder, Client, CommandInteraction, GuildMember, TextChannel, Chan
 
 
 class DB {
-    private uri : string = "mongodb+srv://CSBC_BOT:J1p2npSQKrFBW1II@csbc.uknzjlh.mongodb.net/?retryWrites=true&w=majority&appName=CSBC";
+    private uri : string = "";
     private client:MongoClient;
 
     constructor() {
